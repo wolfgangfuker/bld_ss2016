@@ -34,4 +34,10 @@ Toolchain:
 Notepad++ für die Scripts
 
 #### 3
+* classification: Hierbei werden Daten in Zusammenhänge, Ideen etc. kategorisiert. Bsp.: Bei Amazon: Alle Sportartikel mit dem Wort "Fußball".
+* regression: Wird verwendet zur Vorhersagen und Prognose von Daten. z.B.: Was kauft ein Kunde als nächstes auf Amazon.
+* clusting: Wird verwendet um Cluster unter Daten zu finden. Darunter versteht man ähnliche Daten die man einer Gruppe zuordnen kann. z.B.: Hier könnte man den Amazon Warenkorb hernehmen, wo sobald man einen Artikel in den Warenkorb legt, ähnliche / zusammenhängende Artikel angeboten werden.
+* dimensional: Darunter versteht man die Reduktion eines Datensatzes um ungenauen/unpassende Werte. z.B.: Bei mehreren Wetterstationen wird das Mittel genommen. Einer dieser Stationen liefert einen Fehlerwert der ein extremer Ausreißer ist, dieser wird wegreduziert. 
+
+
 
